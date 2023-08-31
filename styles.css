@@ -53,7 +53,7 @@ a.nav-link {
     margin-right: 39px;
     font-size: var(--text-regular);
     font-weight: var(--font-weight-regular);
-    color: var(--dark-brown) !important;
+    color: var(--dark-blue) !important;
 }
 
 section.hero {
@@ -93,14 +93,14 @@ section.hero {
     line-height: 32px;
  }
 .content {
-    padding-bottom: 60vh;
+    padding-bottom: 50vh;
 }
 
 .content h1 {
     color: rgb(41, 18, 68);
     font-weight: var(--font-weight-medium);
     line-height: 48px;
-    margin: 24px 0;
+    margin: 24px;
 }
 .col-md-6 img {
     max-width: 100%; /* Images will be limited to the width of the column */
