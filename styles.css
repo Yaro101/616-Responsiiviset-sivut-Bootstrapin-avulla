@@ -102,6 +102,11 @@ section.hero {
     line-height: 48px;
     margin: 24px;
 }
+.content h2 {
+    color: rgb(52, 19, 90);
+    font-weight: var(--font-weight-medium);
+    line-height: 36px;
+}
 .col-md-6 img {
     max-width: 100%; /* Images will be limited to the width of the column */
     height: auto; /* Maintain image aspectratio */
@@ -175,7 +180,7 @@ footer p
 }
 .footer-ul li a:hover
 {
-  background-color: hsl(85,54%,51%);
+  background-color: #f6f8fa;
   color: #000;
   padding: 3px;
   margin: 0 5px 0 5px;
@@ -191,7 +196,7 @@ footer p
   text-align: center;
   line-height: 35px;
   font-size: 20px;
-  color: #000;
+  color: rgb(41, 18, 68);
   background: #fff;
   margin-right: 15px;
   cursor: pointer;
@@ -203,8 +208,8 @@ footer p
   height: 45px;
   line-height: 45px;
   text-align: center;
-  background-color: hsl(85,54%,51%);
-  color: #fff;
+  background-color: #f6f8fa;
+  color:rgb(41, 18, 68);
   margin: 0 5px 0 5px;
 
 }
