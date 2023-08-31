@@ -107,6 +107,9 @@ section.hero {
     font-weight: var(--font-weight-medium);
     line-height: 36px;
 }
+.content table {
+    padding-top: 45px;
+}
 .col-md-6 img {
     max-width: 100%; /* Images will be limited to the width of the column */
     height: auto; /* Maintain image aspectratio */
